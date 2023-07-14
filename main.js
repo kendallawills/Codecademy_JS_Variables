@@ -8,3 +8,7 @@ console.log(numOfSlices);
 let changeMe = true;
 changeMe = false;
 console.log(changeMe);
+
+//Create a Variable Const
+const entree = 'Enchiladas';
+console.log(entree);
