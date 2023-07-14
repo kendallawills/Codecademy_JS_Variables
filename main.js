@@ -39,3 +39,8 @@ lostDollar--;
 // String Concatenation with Variables
 let favoriteAnimal = 'Penguin';
 console.log('My favorite animal: ' + favoriteAnimal);
+
+// String Interpolation
+let myName = 'Kendall';
+let myCity = 'Charleston';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
