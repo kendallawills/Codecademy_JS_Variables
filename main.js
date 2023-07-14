@@ -35,3 +35,7 @@ let lostDollar = 50;
 
 gainedDollar++;
 lostDollar--;
+
+// String Concatenation with Variables
+let favoriteAnimal = 'Penguin';
+console.log('My favorite animal: ' + favoriteAnimal);
