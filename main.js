@@ -44,3 +44,10 @@ console.log('My favorite animal: ' + favoriteAnimal);
 let myName = 'Kendall';
 let myCity = 'Charleston';
 console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
+
+// Typeof Operator
+let newVariable = 'Playing around with typeof.';
+console.log(typeof newVariable);
+
+newVariable = 1;
+console.log(typeof newVariable);
